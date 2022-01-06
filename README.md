@@ -7,4 +7,6 @@ And anyway, I do not want to be restricted to typing morse on a website.
 So, I designed a custom HID morse keyer in Fusion 360, 3D-printed it using a Creality Ender 3 V2, and
 programmed it using Arduino C++ and Python.
 
+Watch the demo <a href="https://youtu.be/wTR2LFjZmM0">here</a>!
+
 ![Deconstructed keyer](keyer.jpg)
