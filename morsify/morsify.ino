@@ -13,7 +13,7 @@ String patterns[] = {
   ".----", "..---", "...--", "....-", ".....",
   "-....", "--...", "---..", "----.", "-----",
   "----"};
-char letters[]= "ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890 ";
+char letters[] = "ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890 ";
 
 // Morse timings (for baud rate = 9600)
 int dot_time = 4;  // max
