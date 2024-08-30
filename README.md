@@ -6,4 +6,4 @@ So, I designed a morse keyer in Fusion 360, 3D-printed it using a Creality Ender
 
 Watch the demo <a href="https://youtu.be/wTR2LFjZmM0">here</a>!
 
-<img alt="Deconstructed keyer" src="https://hamzadugmag.com/images/eng_4-compressed.jpg" height="300"/>
+<img alt="Deconstructed keyer" src="https://hamzadugmag.com/images/morse_keyer.jpg" height="300"/>
